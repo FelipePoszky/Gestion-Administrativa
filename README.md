@@ -16,7 +16,7 @@ Aplicación de escritorio desarrollada en **Python** con **Tkinter** para la ges
 
 ## ⚙️ Funcionalidades Principales
 - 🧾 Visualización de tablas: **compras**, **ventas**, **productos**, **proveedores**.  
-- **CRUD** completo (Crear, Leer, Actualizar, Eliminar) en las tablas.  
+- 📝 **CRUD** completo (Crear, Leer, Actualizar, Eliminar) en las tablas.  
 - 📊 Visualización de gráficos:
   - Gráfica de línea: evolución de ventas.
   - Gráfica de barras: comparación compras vs. ventas.
@@ -24,8 +24,8 @@ Aplicación de escritorio desarrollada en **Python** con **Tkinter** para la ges
   - Gráfica de dona: Top proveedores por volumen de compras.
   - Análisis de métricas: **ventas**, **COGS**, **beneficios**, **ganancias**.  
   - Tabla de estado de stock e inventario con alertas (según configuración).  
-- Gestión y personalización de la cuenta y datos del local.  
-- Rol de **administrador** con capacidad para supervisar y gestionar otros usuarios.
+- 👨🏻‍💻 Gestión y personalización de la cuenta y datos del local.  
+- 🔍 Rol de **administrador** con capacidad para supervisar y gestionar otros usuarios.
 
 ---
 
