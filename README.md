@@ -59,24 +59,6 @@ Aplicación de escritorio desarrollada en **Python** con **Tkinter** para la ges
 - **Ejemplo de Conversación (Chat DSA)** - `ScreenShot/chat-dsa.png`  
   ![Chat DSA](./ScreenShot/chat-dsa.png)
 
-> Nota: Si tu repo es sólo para la aplicación Tkinter, reemplaza las rutas y nombres de imágenes por los correspondientes a Screenshots del software (ej. `ScreenShot/ventas.png`, `ScreenShot/inventario.png`, etc.). Las imágenes aquí son ejemplos de estructura.
-
----
-
-## 🗂️ Estructura sugerida del repositorio
-
-```
-proyecto-mini-market/
-├── app/                     # Código fuente de la aplicación
-│   ├── main.py
-│   └── ...
-├── db/                      # Scripts o backups de la base de datos SQLite
-├── docs/                    # Documentación, casos de uso, diagramas
-├── ScreenShot/              # Las capturas que se muestran en el README
-├── requirements.txt         # Dependencias, si aplica
-└── README.md
-```
-
 ---
 
 ## 📚 Notas Académicas
@@ -84,34 +66,9 @@ Este proyecto fue realizado como parte de la asignatura anual **Ingeniería de S
 
 ---
 
-## ⚙️ Cómo ejecutar (ejemplo)
-1. Clona el repositorio:
-```bash
-git clone https://github.com/usuario/proyecto-mini-market.git
-cd proyecto-mini-market
-```
-2. (Opcional) Crear y activar entorno virtual:
-```bash
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS / Linux
-source venv/bin/activate
-```
-3. Instalar dependencias (si aplica):
-```bash
-pip install -r requirements.txt
-```
-4. Ejecutar la aplicación:
-```bash
-python app/main.py
-```
-
----
-
 ## 📫 Contacto
 Si te interesa conocer más sobre el proyecto o colaborar:
-- **Email:** tu_correo@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/tu-perfil
+- **Email:** [lastra.hernandez.felipe@gmail.com] 
+- **LinkedIn:** [https://www.linkedin.com/in/felipe-lastra-96738b261]
 
 ---
