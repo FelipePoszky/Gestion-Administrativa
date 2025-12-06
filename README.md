@@ -30,34 +30,38 @@ Aplicación de escritorio desarrollada en **Python** con **Tkinter** para la ges
 ---
 
 ## 📸 Capturas de Pantalla de las Funcionalidades
-> Coloca tus imágenes en la carpeta `ScreenShot/` en la raíz del repositorio con los nombres indicados.
 
-- **Menú Principal** - `ScreenShot/main-menu.png`  
-  ![Main Menu](./ScreenShot/main-menu.png)
+- **Ventana Reportes / Analizando Metricas** - `ScreenShot/main-menu.png`  
+  ![Ventana Reportes](./Screenshoots/ventana_reportes_1.png)
+  ![Ventana Reportes 2](./Screenshoots/ventana_reportes_2.png)
 
-- **Página de Chats / Panel Principal** - `ScreenShot/chats-page.png`  
-  ![Chats Page](./ScreenShot/chats-page.png)
+- **Ventana Inventario / Inspeccionando Tablas** - `ScreenShot/chats-page.png`  
+  ![Ventana Inventario](./Screenshoots/ventana_inventario_1)
+  ![Ventana Inventario 2](./Screenshoots/ventana_inventario_2)
+  ![Ventana Inventario 3](./Screenshoots/ventana_inventario_3)
 
-- **Página de Quizzes / Módulo de Análisis** - `ScreenShot/quizzes-page.png`  
-  ![Quizzes Page](./ScreenShot/quizzes-page.png)
+- **Ventana Compras / Registrando Compra** - `ScreenShot/.png`  
+  ![Ventana Compras](./Screenshoots/ventana_compras_1.png)
+  ![Ventana Compras 1](./Screenshoots/ventana_compras_2.png)
 
-- **Página de Perfil / Estadísticas** - `ScreenShot/perfil-page.png`  
-  ![Perfil Page](./ScreenShot/perfil-page.png)
+- **Ventana Ventas / Realizando venta** - `ScreenShot/.png`  
+  ![Ventana Ventas](./Screenshoots/ventana_ventas_1.png)
 
-- **Ajustes - Cambio de Contraseña** - `ScreenShot/ajustes-page1.png`  
-  ![Ajustes Contraseña](./ScreenShot/ajustes-page1.png)
+- **Ventana Perfil - Datos Sesión** - `ScreenShot/.png`  
+  ![Ventana Perfil](./Screenshoots/ventana_perfil.png)
 
-- **Ajustes - Cambio de Tema Claro/Oscuro** - `ScreenShot/ajustes-page2.png`  
-  ![Ajustes Tema](./ScreenShot/ajustes-page2.png)
-
-- **Crear Nuevo Chat / Selección de Modelo** - `ScreenShot/ej-newChat.png`  
+- **Ventana Menú / Página Principal** - `ScreenShot/.png`  
+  ![Ventana Menu](./Screenshoots/ventana_menu.png)
+  
+- **Crear Nuevo Chat / Selección de Modelo** - `ScreenShot/.png`  
   ![Nuevo Chat](./ScreenShot/ej-newChat.png)
 
-- **Crear Nuevo Quiz / Selección de Contexto y Dificultad** - `ScreenShot/ej-newQuiz.png`  
-  ![Nuevo Quiz](./ScreenShot/ej-newQuiz.png)
+- **Ventana Acceso / Registro** - `ScreenShot/.png`  
+  ![Ventana Login](./Screenshoots/ventana_login.png)
+  ![Ventana Registro](./Screenshoots/ventana_registro.png)
 
-- **Ejemplo de Conversación (Chat DSA)** - `ScreenShot/chat-dsa.png`  
-  ![Chat DSA](./ScreenShot/chat-dsa.png)
+- **Imagenes de las demas Ventanas** - `ScreenShot/chat-dsa.png`  
+  📁 Carpeta 'Screenshoots'
 
 ---
 
