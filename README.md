@@ -36,9 +36,9 @@ Aplicación de escritorio desarrollada en **Python** con **Tkinter** para la ges
   ![Ventana Reportes 2](./Screenshoots/ventana_reportes_2.png)
 
 - **Ventana Inventario / Inspeccionando Tablas** - `ScreenShot/chats-page.png`  
-  ![Ventana Inventario](./Screenshoots/ventana_inventario_1)
-  ![Ventana Inventario 2](./Screenshoots/ventana_inventario_2)
-  ![Ventana Inventario 3](./Screenshoots/ventana_inventario_3)
+  ![Ventana Inventario](./Screenshoots/ventana_inventario_1.png)
+  ![Ventana Inventario 2](./Screenshoots/ventana_inventario_2.png)
+  ![Ventana Inventario 3](./Screenshoots/ventana_inventario_3.png)
 
 - **Ventana Compras / Registrando Compra** - `ScreenShot/.png`  
   ![Ventana Compras](./Screenshoots/ventana_compras_1.png)
