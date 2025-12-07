@@ -1,75 +1,85 @@
-# 🖥️ Proyecto de Gestión Administrativa - Mini Market
+# 🛒 Proyecto de Gestión Administrativa para Mini Market
 
-**Descripción**  
-Aplicación de escritorio desarrollada en **Python** con **Tkinter** para la gestión administrativa de un Mini Market. El software permite llevar el control de compras, ventas, inventario, proveedores y análisis financiero con visualizaciones gráficas.
+Aplicación de escritorio desarrollada en **Python** utilizando **Tkinter** para apoyar la gestión integral de un Mini Market.  
+El sistema permite administrar compras, ventas, inventario, proveedores y realizar análisis financieros mediante visualizaciones gráficas interactivas.
 
 ---
 
-## 🧩 Tecnologías Destacadas
+## 🧩 Tecnologías Utilizadas
 - **Lenguaje:** Python  
-- **GUI:** Tkinter  
+- **Interfaz gráfica (GUI):** Tkinter  
 - **Diseño UI:** Figma  
 - **Base de datos:** SQLite3  
-- **Gráficos y Análisis:** Matplotlib, NumPy
+- **Gráficos y análisis:** Matplotlib, NumPy
 
 ---
 
 ## ⚙️ Funcionalidades Principales
-- 🧾 Visualización de tablas: **compras**, **ventas**, **productos**, **proveedores**.  
-- 📝 **CRUD** completo (Crear, Leer, Actualizar, Eliminar) en las tablas.  
-- 📊 Visualización de gráficos:
-  - Gráfica de línea: evolución de ventas.
-  - Gráfica de barras: comparación compras vs. ventas.
-  - Gráfica de dona: Top 8 productos más vendidos.
-  - Gráfica de dona: Top proveedores por volumen de compras.
-  - Análisis de métricas: **ventas**, **COGS**, **beneficios**, **ganancias**.  
-  - Tabla de estado de stock e inventario con alertas (según configuración).  
-- 👨🏻‍💻 Gestión y personalización de la cuenta y datos del local.  
-- 🔍 Rol de **administrador** con capacidad para supervisar y gestionar otros usuarios.
+
+- 🧾 **Visualización completa** de tablas: *compras, ventas, productos y proveedores*.  
+- 📝 **CRUD** para todas las entidades del sistema.  
+- 📊 **Módulo de reportes y análisis**, que incluye:
+  - Gráfico de línea: evolución de ventas.
+  - Gráfico de barras: compras vs. ventas.
+  - Gráficos tipo dona:
+    - Top 8 productos más vendidos.
+    - Proveedores con mayor volumen de compras.
+  - Métricas financieras: **ventas**, **COGS**, **beneficios** y **ganancias**.  
+  - Tabla de stock con alertas automáticas según configuraciones.  
+- 👤 **Gestión de usuarios**, personalización de cuenta y datos del local.  
+- 🔐 Rol de **administrador** con supervisión completa del sistema.
 
 ---
 
-## 📸 Capturas de Pantalla de las Funcionalidades
+## 📸 Capturas de Pantalla
 
-- **Ventana Reportes / Analizando Metricas** - `ScreenShot/main-menu.png`  
-  ![Ventana Reportes](./Screenshoots/ventana_reportes_1.png)
-  ![Ventana Reportes 2](./Screenshoots/ventana_reportes_2.png)
+### 🧮 Reportes y Métricas
+![Ventana Reportes](./Screenshoots/ventana_reportes_1.png)  
+![Ventana Reportes 2](./Screenshoots/ventana_reportes_2.png)
 
-- **Ventana Inventario / Inspeccionando Tablas** - `ScreenShot/chats-page.png`  
-  ![Ventana Inventario](./Screenshoots/ventana_inventario_1.png)
-  ![Ventana Inventario 2](./Screenshoots/ventana_inventario_2.png)
-  ![Ventana Inventario 3](./Screenshoots/ventana_inventario_3.png)
+### 📦 Inventario y Gestión de Tablas
+![Ventana Inventario](./Screenshoots/ventana_inventario_1.png)  
+![Ventana Inventario 2](./Screenshoots/ventana_inventario_2.png)  
+![Ventana Inventario 3](./Screenshoots/ventana_inventario_3.png)
 
-- **Ventana Compras / Registrando Compra** - `ScreenShot/.png`  
-  ![Ventana Compras](./Screenshoots/ventana_compras_1.png)
-  ![Ventana Compras 1](./Screenshoots/ventana_compras_2.png)
+### 🛒 Módulo de Compras
+![Ventana Compras](./Screenshoots/ventana_compras_1.png)  
+![Ventana Compras 2](./Screenshoots/ventana_compras_2.png)
 
-- **Ventana Ventas / Realizando venta** - `ScreenShot/.png`  
-  ![Ventana Ventas](./Screenshoots/ventana_ventas_1.png)
+### 💳 Módulo de Ventas
+![Ventana Ventas](./Screenshoots/ventana_ventas_1.png)
 
-- **Ventana Perfil - Datos Sesión** - `ScreenShot/.png`  
-  ![Ventana Perfil](./Screenshoots/ventana_perfil.png)
+### 👤 Perfil de Usuario
+![Ventana Perfil](./Screenshoots/ventana_perfil.png)
 
-- **Ventana Menú / Página Principal** - `ScreenShot/.png`  
-  ![Ventana Menu](./Screenshoots/ventana_menu.png)
+### 📋 Menú Principal
+![Ventana Menú](./Screenshoots/ventana_menu.png)
 
-- **Ventana Acceso / Registro** - `ScreenShot/.png`  
-  ![Ventana Login](./Screenshoots/ventana_login.png)
-  ![Ventana Registro](./Screenshoots/ventana_registro.png)
+### 🔐 Acceso y Registro
+![Ventana Login](./Screenshoots/ventana_login.png)  
+![Ventana Registro](./Screenshoots/ventana_registro.png)
 
-- **Imagenes de las demas Ventanas** - `ScreenShot/chat-dsa.png`  
-  📁 Carpeta 'Screenshoots'
+📁 *Para más capturas, revisar la carpeta* **Screenshoots/**.
 
 ---
 
-## 📚 Notas Académicas
-Este proyecto fue realizado como parte de la asignatura anual **Ingeniería de Software I y II**, con una contraparte real y bajo la supervisión constante del docente. Se aplicaron metodologías formales: levantamiento de requerimientos, informe técnico, casos de uso y vistas arquitectónicas (4+1).
+## 📚 Contexto Académico
+
+Este proyecto fue desarrollado en el marco de las asignaturas anuales **Ingeniería de Software I y II**, trabajando con una contraparte real y con supervisión docente permanente.  
+Incluye aplicación de metodologías formales como:
+- Levantamiento de requerimientos  
+- Análisis y diseño  
+- Casos de uso  
+- Arquitectura 4+1  
+- Informe técnico y documentación completa  
 
 ---
 
 ## 📫 Contacto
-Si te interesa conocer más sobre el proyecto o colaborar:
-- **Email:** [lastra.hernandez.felipe@gmail.com] 
-- **LinkedIn:** [https://www.linkedin.com/in/felipe-lastra-96738b261]
+
+Si deseas saber más, realizar mejoras o colaborar, puedes escribirme:
+
+- **Email:** lastra.hernandez.felipe@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/felipe-lastra-96738b261
 
 ---
