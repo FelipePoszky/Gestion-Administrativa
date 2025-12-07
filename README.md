@@ -52,9 +52,6 @@ Aplicación de escritorio desarrollada en **Python** con **Tkinter** para la ges
 
 - **Ventana Menú / Página Principal** - `ScreenShot/.png`  
   ![Ventana Menu](./Screenshoots/ventana_menu.png)
-  
-- **Crear Nuevo Chat / Selección de Modelo** - `ScreenShot/.png`  
-  ![Nuevo Chat](./ScreenShot/ej-newChat.png)
 
 - **Ventana Acceso / Registro** - `ScreenShot/.png`  
   ![Ventana Login](./Screenshoots/ventana_login.png)
